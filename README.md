@@ -56,3 +56,5 @@ Recommended learning order for the materials in this repository:
 9. ShellExpansionAndWildcards
 10. SearchingFilesAndDirectories
 11. Grep
+12. UsersGroupsPermissions
+13. Environment
